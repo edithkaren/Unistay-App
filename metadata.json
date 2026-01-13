@@ -1,0 +1,7 @@
+{
+  "name": "UniStay - Premium PG & Hostel Finder",
+  "description": "A smart platform for students and professionals to find the perfect PG or hostel in any city, featuring an AI-powered recommendation assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
